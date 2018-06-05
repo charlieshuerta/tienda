@@ -1,4 +1,4 @@
-#Tienda
+# Tienda
 
 Pequeño sistema haciendo uso del lenguaje *PHP* y base de datos *MySQL* como parte de un curso que estoy tomando sobre Desarrollo Web. El sistema permite:
 
